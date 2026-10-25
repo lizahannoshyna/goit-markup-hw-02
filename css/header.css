@@ -12,9 +12,6 @@
 .logo-span {
   color: #4d5ae5;
 }
-.nav-list{
-  list-style: none;
-}
 .nav-item__link {
   font-size: 16px;
   font-weight: 500;
@@ -32,9 +29,7 @@
 .address {
   font-style: normal;
 }
-.address-list {
-  list-style: none;
-}
+
 .address-item__link {
   font-size: 16px;
   line-height: 1.5;
@@ -44,6 +39,6 @@
   text-decoration: none;
 }
 .address-item__link:hover,
-.address-item__link:hover {
+.address-item__link:focus {
   color: #404bbf;
 }

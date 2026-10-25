@@ -3,5 +3,8 @@ body {
   color: #2e2f42;
   background-color: #ffffff;
   line-height: 1.5;
+}
+
+ul {
   list-style: none;
 }
