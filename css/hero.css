@@ -1,0 +1,18 @@
+#hero {
+    background-color: #2E2F42;
+}
+.hero-header {
+    font-size: 56px ;
+    font-weight: 700 ;
+    line-height: 1.07 ;
+    color: #FFFFFF;
+
+    text-align: center;
+}
+.hero-btn {
+    font-size: 16;
+    font-weight: 500;
+    line-height: 1.5;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
