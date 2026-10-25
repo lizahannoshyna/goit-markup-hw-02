@@ -1,21 +1,21 @@
 .portfolio-header {
-    font-size: 36;
-    font-weight: 700;
-    line-height: 1.1;
-    color: #2E2F42;
-    text-align: center;
+  font-size: 36;
+  font-weight: 700;
+  line-height: 1.1;
+  color: #2e2f42;
+  text-align: center;
 }
 .portfolio-list {
-    list-style: none;
+  list-style: none;
 }
 .portfolio-item__header {
-    font-size: 20;
-    font-weight: 500;
-    line-height: 1.2;
-    color: #2E2F42;
+  font-size: 20;
+  font-weight: 500;
+  line-height: 1.2;
+  color: #2e2f42;
 }
 .portfolio-item-description {
-    font-size: 16;
-    line-height: 1.5;
-    color: #434455;
+  font-size: 16;
+  line-height: 1.5;
+  color: #434455;
 }

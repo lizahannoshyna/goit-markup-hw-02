@@ -1,36 +1,43 @@
 .logo {
-    font-family: Raleway;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.3;
-    color: #2E2F42;
-    
-    text-decoration: none;
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1.3;
+  color: #2e2f42;
+
+  text-decoration: none;
 }
 .logo-span {
-    color: #4D5AE5;
+  color: #4d5ae5;
 }
 .nav-list {
-    list-style: none;
+  list-style: none;
 }
 .nav-item__link {
-    font-size: 16;
-    font-weight: 500;
-    line-height: 1.5;
-    color: #2E2F42;
-    
-    text-decoration: none;
+  font-size: 16;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #2e2f42;
+
+  text-decoration: none;
 }
+.nav-item__link:hover {
+  color: #404bbf;
+}
+
 .address {
-    font-style: normal;
+  font-style: normal;
 }
 .address-list {
-    list-style: none;
+  list-style: none;
 }
 .address-item__link {
-    font-size: 16;
-    line-height: 1.5;
-    color: #2E2F42;
-    
-    text-decoration: none;
+  font-size: 16;
+  line-height: 1.5;
+  color: #2e2f42;
+
+  text-decoration: none;
+}
+.address-item__link:hover {
+  color: #404bbf;
 }
